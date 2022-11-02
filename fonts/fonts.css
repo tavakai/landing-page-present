@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Roboto Mono', monospace, sans-serif;
+  src: url('./RobotoMono-Bold.ttf') format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Roboto Mono', monospace, sans-serif;
+  src: url('./RobotoMono-Regular.ttf') format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Roboto Mono', monospace, sans-serif;
+  src: url('./RobotoMono-Medium.ttf') format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
